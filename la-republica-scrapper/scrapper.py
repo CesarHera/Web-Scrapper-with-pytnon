@@ -1,6 +1,5 @@
 import os, datetime, requests
 import lxml.html as html
-from requests.models import RequestHooksMixin
 
 
 WEBSITE: str = 'https://www.larepublica.co/'
